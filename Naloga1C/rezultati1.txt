@@ -1,0 +1,3 @@
+Vneseno stevilo sekund 25845 se lahko zapise kot 0 dni 7 ur 10 min 45 sek 
+Vneseno stevilo sekund 89622 se lahko zapise kot 1 dni 0 ur 53 min 42 sek 
+Vneseno stevilo sekund 6500 se lahko zapise kot 0 dni 1 ur 48 min 20 sek 

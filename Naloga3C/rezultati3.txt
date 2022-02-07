@@ -1,0 +1,206 @@
+
+
+
+zacetek izvajanja programa.PID izvajanja procesa je 6417.UID procesa je 1000.
+Proces otrok je bil ustvarjen. PID procesa otrok je 6418.PPID starsevskega procesa je 6417
+Otrok zacenja z izvajanjem programa ls
+Slike
+Javno
+Glasba
+Dokumenti
+.local
+3.zip
+.bashrc
+rezultati3.txt
+.profile
+.mozilla
+.ssh
+1nalog
+OS_Janez_Bucar
+2domaca2JanezBucar
+.domaca4JanezBucar.sh.swp
+2domaca2JanezBucar.c
+.thunderbird
+Video
+.bash_history
+snap
+domaca3.c
+3_deloydat
+Predloge
+.beri.sh.swp
+domaca3
+.bash_logout
+.viminfo
+.config
+test
+Namizje
+imenik
+rezultati2.txt
+2nal.zip
+2SKLOP_shell_PROGRAMIRANJE
+Prejemi
+3 (1)
+..
+.
+.gnupg
+.cache
+3
+.sudo_as_admin_successful
+PID Otroškega procesa, ki se je končal je, 6418
+Fakulteta stevila 5 je: 120.
+
+
+
+
+zacetek izvajanja programa.PID izvajanja procesa je 6437.UID procesa je 1000.
+Proces otrok je bil ustvarjen. PID procesa otrok je 6438.PPID starsevskega procesa je 6437
+Otrok zacenja z izvajanjem programa ls
+Slike
+Javno
+Glasba
+Dokumenti
+.local
+3.zip
+.bashrc
+rezultati3.txt
+.profile
+.mozilla
+.ssh
+1nalog
+OS_Janez_Bucar
+2domaca2JanezBucar
+.domaca4JanezBucar.sh.swp
+2domaca2JanezBucar.c
+.thunderbird
+Video
+.bash_history
+snap
+domaca3.c
+3_deloydat
+Predloge
+.beri.sh.swp
+domaca3
+.bash_logout
+.viminfo
+.config
+test
+Namizje
+imenik
+rezultati2.txt
+2nal.zip
+2SKLOP_shell_PROGRAMIRANJE
+Prejemi
+3 (1)
+..
+.
+.gnupg
+.cache
+3
+.sudo_as_admin_successful
+PID Otroškega procesa, ki se je končal je, 6438
+Fakulteta stevila 9 je: 362880.
+
+
+
+
+zacetek izvajanja programa.PID izvajanja procesa je 6465.UID procesa je 1000.
+Proces otrok je bil ustvarjen. PID procesa otrok je 6466.PPID starsevskega procesa je 6465
+Otrok zacenja z izvajanjem programa ls
+Slike
+Javno
+Glasba
+Dokumenti
+.local
+3.zip
+.bashrc
+rezultati3.txt
+.profile
+.mozilla
+.ssh
+1nalog
+OS_Janez_Bucar
+2domaca2JanezBucar
+.domaca4JanezBucar.sh.swp
+2domaca2JanezBucar.c
+.thunderbird
+Video
+.bash_history
+snap
+domaca3.c
+3_deloydat
+Predloge
+.beri.sh.swp
+domaca3
+.bash_logout
+.viminfo
+.config
+test
+Namizje
+imenik
+rezultati2.txt
+2nal.zip
+2SKLOP_shell_PROGRAMIRANJE
+Prejemi
+3 (1)
+..
+.
+.gnupg
+.cache
+3
+.sudo_as_admin_successful
+PID Otroškega procesa, ki se je končal je, 6466
+Fakulteta stevila 8 je: 40320.
+
+
+
+
+zacetek izvajanja programa.PID izvajanja procesa je 6500.UID procesa je 1000.
+Proces otrok je bil ustvarjen. PID procesa otrok je 6501.PPID starsevskega procesa je 6500
+Otrok zacenja z izvajanjem programa ls
+Slike
+Javno
+Glasba
+Dokumenti
+.local
+3.zip
+.bashrc
+rezultati3.txt
+.profile
+.mozilla
+.ssh
+1nalog
+OS_Janez_Bucar
+2domaca2JanezBucar
+.domaca4JanezBucar.sh.swp
+2domaca2JanezBucar.c
+.thunderbird
+Video
+.bash_history
+snap
+domaca3.c
+3_deloydat
+Predloge
+.beri.sh.swp
+domaca3
+.bash_logout
+.viminfo
+.config
+test
+Namizje
+imenik
+rezultati2.txt
+2nal.zip
+2SKLOP_shell_PROGRAMIRANJE
+Prejemi
+3 (1)
+..
+.
+.gnupg
+.cache
+3
+.sudo_as_admin_successful
+PID Otroškega procesa, ki se je končal je, 6501
+Fakulteta stevila 12 je: 479001600.
+
+
+

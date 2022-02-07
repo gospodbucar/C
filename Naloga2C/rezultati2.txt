@@ -1,0 +1,39 @@
+Stevilo elementov polja: 12
+Vneseno polje je: 6, 6, 6, 4, 4, 4, 7, 12, 15, 3, 7, 7, 
+Stevilo za iskanje je: 4
+Celo stevilo 4 se pojavi v polju 3 krat 
+stevilo 6 se ponovi 3 krat
+stevilo 4 se ponovi 3 krat
+stevilo 7 se ponovi 3 krat
+stevilo 12 se ponovi 1 krat
+stevilo 15 se ponovi 1 krat
+stevilo 3 se ponovi 1 krat
+pozicija minimalnega elementa je 0 ter njegova vrednost je 6
+suma vseh elementov polja je 81 
+
+Stevilo elementov polja: 6
+Vneseno polje je: 10, 10, 15, 2, 2, 6, 
+Stevilo za iskanje je: 2
+Celo stevilo 2 se pojavi v polju 2 krat 
+stevilo 10 se ponovi 2 krat
+stevilo 15 se ponovi 1 krat
+stevilo 2 se ponovi 2 krat
+stevilo 6 se ponovi 1 krat
+pozicija minimalnega elementa je 0 ter njegova vrednost je 10
+suma vseh elementov polja je 45 
+
+Stevilo elementov polja: 8
+Vneseno polje je: 4, 1, 2, 8, 12, 22, 88, 0, 
+Stevilo za iskanje je: 3
+Celo stevilo 3 se pojavi v polju 0 krat 
+stevilo 4 se ponovi 1 krat
+stevilo 1 se ponovi 1 krat
+stevilo 2 se ponovi 1 krat
+stevilo 8 se ponovi 1 krat
+stevilo 12 se ponovi 1 krat
+stevilo 22 se ponovi 1 krat
+stevilo 88 se ponovi 1 krat
+stevilo 0 se ponovi 1 krat
+pozicija minimalnega elementa je 0 ter njegova vrednost je 4
+suma vseh elementov polja je 137 
+
